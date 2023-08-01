@@ -1,3 +1,6 @@
+//@Akash
+//@Sankeerth
+//@Krupakar
 ///////////////////////////////////////////////////////////////////////////////////////
 //Terms of use
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -868,7 +871,6 @@ void intro(){
   Serial.println(F(""));
   Serial.println(F("==================================================="));
   delay(1500);
-  Serial.println(F("For support and questions: www.brokking.net"));
   Serial.println(F(""));
   Serial.println(F("Have fun!"));
 }
